@@ -6,12 +6,8 @@
 - 🤔 Procurando...
 - 😄 Pronouns: Ele/Dele
 
-<a href="https://github.com/Barkuszz/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Barkuszz&show_icons=true&theme=radical" />
-  
-</a>
-<a href="https://github.com/Barkuszz/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Barkuszz&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barkuszz&custom_title=&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=8) 
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barkuszz&theme=transparent&show_icons=true&text_color=ffffff&hide_border=true&hide_title=true&line_height=20&text_bold=false&card_width=100) 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
